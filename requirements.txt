@@ -1,0 +1,7 @@
+crewai>=0.100
+crewai-tools>=0.40
+streamlit>=1.40
+python-dotenv>=1.0
+markdown>=3.6
+xhtml2pdf>=0.2.16
+python-pptx>=1.0
